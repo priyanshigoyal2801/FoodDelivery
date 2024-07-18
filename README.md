@@ -7,6 +7,10 @@ Welcome to the frontend of **MyOnlineMeals**! Get ready to dive into a delicious
 
 This is the frontend for **MyOnlineMeals**, your ultimate online food delivery service. Built with love and care, this project brings together a beautiful design and user-friendly experience, making it super easy for anyone to navigate and order meals.
 
+## Demo
+
+You can view the deployed website [here]( https://priyanshigoyal2801.github.io/FoodDelivery/)
+
 ## 🌟 Features
 
 
